@@ -1,1 +1,2 @@
-# clone
+pragathi = shitt
+print("pragathi shitt")
